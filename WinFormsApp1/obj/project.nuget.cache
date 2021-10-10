@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "cpjowjTSBWZHFtaus1kVjZxcdi+uV/T+M7Do3OsAqNcn/iLO5WZTJH24E5wRGsN8UPfxCml8+3EhhzezHe4ECA==",
+  "success": true,
+  "projectFilePath": "C:\\Broc\\TestWinForm\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Moste\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Moste\\.nuget\\packages\\sharpclipboard\\3.5.2\\sharpclipboard.3.5.2.nupkg.sha512",
+    "C:\\Users\\Moste\\.nuget\\packages\\system.runtime.windowsruntime\\4.7.0\\system.runtime.windowsruntime.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
